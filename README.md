@@ -1,9 +1,10 @@
 
 
-<a href="" ><img align="left" width="200" height="150" style="margin-right: 30px;"  src="Image/486.gif?raw=true"></a>
+<a href="" ><img align="left" width="200" height="150"  src="Image/486.gif?raw=true"></a>
 
-- 👋 Hi
-- 🎓 I’m a student majoring in Computer Science
-- 👨‍💻 Enjoy rendering and deep learning
-- 🤩 Love anime, music and games
-
+<ul dir="auto" style = "margin-left:225px" >
+<li>👋 Hi</li>
+<li>🎓 I’m a student majoring in Computer Science</li>
+<li>👨‍💻 Enjoy rendering and deep learning</li>
+<li>🤩 Love anime, music and games</li>
+</ul>
