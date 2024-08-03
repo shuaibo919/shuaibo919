@@ -1,17 +1,9 @@
 
 
+<a href="" ><img align="left" width="200" height="150" style="margin-right: 30px;"  src="Image/486.gif?raw=true"></a>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <!-- 左侧放置 GIF 图像，占 1/4 宽度 -->
-    <div style="flex: 1; max-width: 33%;">
-        <img src="Image/486.gif" alt="GIF" style="width: 100%; height: auto;">
-    </div>
-     <div style="flex: 1; max-width: 10%;">
+- 👋 Hi
+- 🎓 I’m a student majoring in Computer Science
+- 👨‍💻 Enjoy rendering and deep learning
+- 🤩 Love anime, music and games
 
-</div>
-  <div style="flex: 2; max-width: 55%;">
-        <h2>👋</h2>
-    </div>
-
-
-</div>
